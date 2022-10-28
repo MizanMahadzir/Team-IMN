@@ -1,0 +1,19 @@
+class VolumeaOfCuboid
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter Length of Cuboid:");
+        double Length = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("Enter Width of Cuboid:");
+        double Width = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("Enter Height of Cuboid:");
+        double Height = Convert.ToDouble(Console.ReadLine());
+        double Volume = CalculateVolume(Length, Width, Height);
+        Console.WriteLine("Volume of Cuboid is:" + Volume);
+        Console.ReadKey();
+    }
+    private static double CalculateVolume(double Length, double Width, double Height)
+    {
+        return Height * Width * Length;
+    }
+}    
