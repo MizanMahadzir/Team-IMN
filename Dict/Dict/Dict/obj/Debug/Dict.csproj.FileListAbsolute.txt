@@ -1,8 +1,0 @@
-C:\Users\PSCAD\Desktop\Dict\Dict\Dict\bin\Debug\Dict.exe.config
-C:\Users\PSCAD\Desktop\Dict\Dict\Dict\bin\Debug\Dict.exe
-C:\Users\PSCAD\Desktop\Dict\Dict\Dict\bin\Debug\Dict.pdb
-C:\Users\PSCAD\Desktop\Dict\Dict\Dict\obj\Debug\Dict.csproj.AssemblyReference.cache
-C:\Users\PSCAD\Desktop\Dict\Dict\Dict\obj\Debug\Dict.csproj.SuggestedBindingRedirects.cache
-C:\Users\PSCAD\Desktop\Dict\Dict\Dict\obj\Debug\Dict.csproj.CoreCompileInputs.cache
-C:\Users\PSCAD\Desktop\Dict\Dict\Dict\obj\Debug\Dict.exe
-C:\Users\PSCAD\Desktop\Dict\Dict\Dict\obj\Debug\Dict.pdb
