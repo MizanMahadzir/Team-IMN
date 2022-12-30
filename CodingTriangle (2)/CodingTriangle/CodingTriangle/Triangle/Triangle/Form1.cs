@@ -34,9 +34,9 @@ namespace Triangle
 
             try
             {
-                tempA1 = Convert.ToInt32(SideA1textBox.Text);
-                tempB1 = Convert.ToInt32(SideB1textBox.Text);
-                tempC1 = Convert.ToInt32(SideC1textBox.Text);
+                tempA1 = Convert.ToDouble(SideA1textBox.Text);
+                tempB1 = Convert.ToDouble(SideB1textBox.Text);
+                tempC1 = Convert.ToDouble(SideC1textBox.Text);
                 MsgLabel1.Text = "Message";
             }
             catch (Exception excep)
@@ -67,9 +67,9 @@ namespace Triangle
 
             try
             {
-                tempA1 = Convert.ToInt32(SideA1textBox.Text);
-                tempB1 = Convert.ToInt32(SideB1textBox.Text);
-                tempC1 = Convert.ToInt32(SideC1textBox.Text);
+                tempA1 = Convert.ToDouble(SideA1textBox.Text);
+                tempB1 = Convert.ToDouble(SideB1textBox.Text);
+                tempC1 = Convert.ToDouble(SideC1textBox.Text);
                 MsgLabel1.Text = "Message";
             }
             catch (Exception excep)
@@ -102,12 +102,12 @@ namespace Triangle
 
             try
             {
-                tempX1 = Convert.ToInt32(X1textBox.Text);
-                tempX2 = Convert.ToInt32(X2textBox.Text);
-                tempX3 = Convert.ToInt32(X3textBox.Text);
-                tempY1 = Convert.ToInt32(Y1textBox.Text);
-                tempY2 = Convert.ToInt32(Y2textBox.Text);
-                tempY3 = Convert.ToInt32(Y3textBox.Text);
+                tempX1 = Convert.ToDouble(X1textBox.Text);
+                tempX2 = Convert.ToDouble(X2textBox.Text);
+                tempX3 = Convert.ToDouble(X3textBox.Text);
+                tempY1 = Convert.ToDouble(Y1textBox.Text);
+                tempY2 = Convert.ToDouble(Y2textBox.Text);
+                tempY3 = Convert.ToDouble(Y3textBox.Text);
                 MsgLabel2.Text = "Message";
             }
             catch (Exception excep)
@@ -144,12 +144,12 @@ namespace Triangle
 
             try
             {
-                tempX1 = Convert.ToInt32(X1textBox.Text);
-                tempX2 = Convert.ToInt32(X2textBox.Text);
-                tempX3 = Convert.ToInt32(X3textBox.Text);
-                tempY1 = Convert.ToInt32(Y1textBox.Text);
-                tempY2 = Convert.ToInt32(Y2textBox.Text);
-                tempY3 = Convert.ToInt32(Y3textBox.Text);
+                tempX1 = Convert.ToDouble(X1textBox.Text);
+                tempX2 = Convert.ToDouble(X2textBox.Text);
+                tempX3 = Convert.ToDouble(X3textBox.Text);
+                tempY1 = Convert.ToDouble(Y1textBox.Text);
+                tempY2 = Convert.ToDouble(Y2textBox.Text);
+                tempY3 = Convert.ToDouble(Y3textBox.Text);
                 MsgLabel2.Text = "Message";
             }
             catch (Exception excep)

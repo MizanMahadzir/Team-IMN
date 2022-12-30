@@ -68,20 +68,6 @@ namespace Triangle
 
         }
 
-        //public double SideA2()
-        // {
-        //    return (Math.Sqrt(((_x2 - _x1) * (_x2 - _x1)) + ((_y2 - _y1) * (_y2 - _y1))));
-        //}
-
-        // public double SideB2()
-        //{
-        //    return (Math.Sqrt(((_x1 - _x3) * (_x1 - _x3)) + ((_y1 - _y3) * (_y1 - _y3))));
-        //}
-
-        // public double SideC2()
-        // {
-        //     return (Math.Sqrt(((_x3 - _x2) * (_x3 - _x2)) + ((_y3 - _y2) * (_y3 - _y2))));
-        // }
 
         public double SideA2()
         {
