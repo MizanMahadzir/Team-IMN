@@ -1,6 +1,0 @@
-C:\Users\Admin\Source\Repos\Trianglelibrary\Trianglelibrary\bin\Debug\Trianglelibrary.dll
-C:\Users\Admin\Source\Repos\Trianglelibrary\Trianglelibrary\bin\Debug\Trianglelibrary.pdb
-C:\Users\Admin\Source\Repos\Trianglelibrary\Trianglelibrary\obj\Debug\Trianglelibrary.csproj.AssemblyReference.cache
-C:\Users\Admin\Source\Repos\Trianglelibrary\Trianglelibrary\obj\Debug\Trianglelibrary.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Source\Repos\Trianglelibrary\Trianglelibrary\obj\Debug\Trianglelibrary.dll
-C:\Users\Admin\Source\Repos\Trianglelibrary\Trianglelibrary\obj\Debug\Trianglelibrary.pdb
