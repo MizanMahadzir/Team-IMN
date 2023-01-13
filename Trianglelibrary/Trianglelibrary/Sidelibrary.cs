@@ -45,7 +45,7 @@ namespace Trianglelibrary
         }
 
         //for half perimeter
-        public double S() //method
+        private double S() //method
         {
             //return (_sideA + _sideB + _sideC)/2;
 
@@ -62,6 +62,15 @@ namespace Trianglelibrary
 
             return Math.Sqrt(S() * (S() - _sideA) * (S() - _sideB) * (S() - _sideC));
         }
+
+        //for angle
+        public double Angle()
+        {
+            double xDiff = _x2 - _x1;
+            double yDiff = _y2 - _y1;
+            return Math.Atan2(yDiff, xDiff) * 180.0 / Math.PI;
+        }
+
 
         //reality of triangle
         public string Reality() //method
