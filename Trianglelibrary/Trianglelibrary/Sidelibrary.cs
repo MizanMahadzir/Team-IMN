@@ -66,9 +66,7 @@ namespace Trianglelibrary
         //for angle
         public double Angle()
         {
-            double xDiff = _x2 - _x1;
-            double yDiff = _y2 - _y1;
-            return Math.Atan2(yDiff, xDiff) * 180.0 / Math.PI;
+            return Math.Acos((_sideB * _sideB + _sideC * _sideC - _sideA * _sideA) / 2 * _sideB * _sideC);
         }
 
 

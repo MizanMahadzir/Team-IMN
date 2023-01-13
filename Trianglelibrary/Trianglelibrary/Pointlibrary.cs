@@ -125,9 +125,7 @@ namespace Trianglelibrary
         //for angle
         public double Angle()
         {
-            double xDiff = _x2 - _x1;
-            double yDiff = _y2 - _y1;
-            return Math.Atan2(yDiff, xDiff) * 180.0 / Math.PI;
+            return Math.Acos((SideB()*SideB() + SideC()*SideC() - SideA()*SideA()) / 2 * SideB() * SideC());
         }
 
         //for reality of triangle
