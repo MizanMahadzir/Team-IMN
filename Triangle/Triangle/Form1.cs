@@ -168,6 +168,91 @@ namespace Triangle
             Area2_label.Text = myByPoint.Area().ToString(" 0.0000000000");
             RealityTriangle2Label.Text = "Triangle reality = " + myByPoint.Reality();
         }
+
+        private void angleAB_button_Click(object sender, EventArgs e)
+        {
+            double tempA1;
+            double tempB1;
+            double tempC1;
+
+
+
+
+            try
+            {
+                tempA1 = Convert.ToInt32(SideA1textBox.Text);
+                tempB1 = Convert.ToInt32(SideB1textBox.Text);
+                tempC1 = Convert.ToInt32(SideC1textBox.Text);
+                MsgLabel1.Text = "Message";
+            }
+            catch (Exception excep)
+            {
+                MsgLabel1.Text = "Message: Please give a valid value";
+                return;
+            }
+
+            myBySide.SideA = tempA1;
+            myBySide.SideB = tempB1;
+            myBySide.SideC = tempC1;
+
+            angleAB_label.Text = myBySide.AngleAB().ToString(" 0.00");
+        }
+        private void angleAC_button_Click(object sender, EventArgs e)
+        {
+            double tempA1;
+            double tempB1;
+            double tempC1;
+
+
+
+
+            try
+            {
+                tempA1 = Convert.ToInt32(SideA1textBox.Text);
+                tempB1 = Convert.ToInt32(SideB1textBox.Text);
+                tempC1 = Convert.ToInt32(SideC1textBox.Text);
+                MsgLabel1.Text = "Message";
+            }
+            catch (Exception excep)
+            {
+                MsgLabel1.Text = "Message: Please give a valid value";
+                return;
+            }
+
+            myBySide.SideA = tempA1;
+            myBySide.SideB = tempB1;
+            myBySide.SideC = tempC1;
+
+            angleAC_label.Text = myBySide.AngleAC().ToString(" 0.00");
+        }
+        private void angleBC_button_Click(object sender, EventArgs e)
+        {
+            double tempA1;
+            double tempB1;
+            double tempC1;
+
+
+
+
+            try
+            {
+                tempA1 = Convert.ToInt32(SideA1textBox.Text);
+                tempB1 = Convert.ToInt32(SideB1textBox.Text);
+                tempC1 = Convert.ToInt32(SideC1textBox.Text);
+                MsgLabel1.Text = "Message";
+            }
+            catch (Exception excep)
+            {
+                MsgLabel1.Text = "Message: Please give a valid value";
+                return;
+            }
+
+            myBySide.SideA = tempA1;
+            myBySide.SideB = tempB1;
+            myBySide.SideC = tempC1;
+
+            angleBC_label.Text = myBySide.AngleBC().ToString(" 0.00");
+        }
     }
 }
 

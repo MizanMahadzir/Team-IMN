@@ -64,6 +64,24 @@ namespace Triangle
             return Math.Sqrt(S()*(S()-_sideA)* (S() - _sideB)* (S() - _sideC));
         }
 
+        //for angleBC
+        public double AngleBC()
+        {
+            return Math.Acos(((_sideB * _sideB) + (_sideC * _sideC) - (_sideA * _sideA)) / (2 * _sideB * _sideC));
+        }
+
+        //for angleAC
+        public double AngleAC()
+        {
+            return Math.Acos(((_sideA * _sideA) + (_sideC * _sideC) - (_sideB * _sideB)) / (2 * _sideA * _sideC));
+        }
+
+        //for angleAB
+        public double AngleAB()
+        {
+            return Math.Acos(((_sideA * _sideA) + (_sideB * _sideB) - (_sideC * _sideC)) / (2 * _sideA * _sideB));
+        }
+
         public string Reality()
         {
            if ((_sideA> _sideB) && (_sideA>_sideC))

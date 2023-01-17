@@ -30,6 +30,13 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.BySIde_tab = new System.Windows.Forms.TabPage();
+            this.angleBC_label = new System.Windows.Forms.Label();
+            this.angleBC_button = new System.Windows.Forms.Button();
+            this.angleAC_label = new System.Windows.Forms.Label();
+            this.angleAB_label = new System.Windows.Forms.Label();
+            this.angleAC_button = new System.Windows.Forms.Button();
+            this.angleAB_button = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.MsgLabel1 = new System.Windows.Forms.Label();
             this.RealityTriangle1Label = new System.Windows.Forms.Label();
             this.Area1_label = new System.Windows.Forms.Label();
@@ -83,6 +90,13 @@
             // 
             // BySIde_tab
             // 
+            this.BySIde_tab.Controls.Add(this.angleBC_label);
+            this.BySIde_tab.Controls.Add(this.angleBC_button);
+            this.BySIde_tab.Controls.Add(this.angleAC_label);
+            this.BySIde_tab.Controls.Add(this.angleAB_label);
+            this.BySIde_tab.Controls.Add(this.angleAC_button);
+            this.BySIde_tab.Controls.Add(this.angleAB_button);
+            this.BySIde_tab.Controls.Add(this.label1);
             this.BySIde_tab.Controls.Add(this.MsgLabel1);
             this.BySIde_tab.Controls.Add(this.RealityTriangle1Label);
             this.BySIde_tab.Controls.Add(this.Area1_label);
@@ -104,6 +118,71 @@
             this.BySIde_tab.TabIndex = 0;
             this.BySIde_tab.Text = "By Side";
             this.BySIde_tab.UseVisualStyleBackColor = true;
+            // 
+            // angleBC_label
+            // 
+            this.angleBC_label.AutoSize = true;
+            this.angleBC_label.Location = new System.Drawing.Point(599, 160);
+            this.angleBC_label.Name = "angleBC_label";
+            this.angleBC_label.Size = new System.Drawing.Size(15, 13);
+            this.angleBC_label.TabIndex = 20;
+            this.angleBC_label.Text = "--";
+            // 
+            // angleBC_button
+            // 
+            this.angleBC_button.Location = new System.Drawing.Point(462, 155);
+            this.angleBC_button.Name = "angleBC_button";
+            this.angleBC_button.Size = new System.Drawing.Size(75, 23);
+            this.angleBC_button.TabIndex = 19;
+            this.angleBC_button.Text = "Angle BC";
+            this.angleBC_button.UseVisualStyleBackColor = true;
+            this.angleBC_button.Click += new System.EventHandler(this.angleBC_button_Click);
+            // 
+            // angleAC_label
+            // 
+            this.angleAC_label.AutoSize = true;
+            this.angleAC_label.Location = new System.Drawing.Point(599, 130);
+            this.angleAC_label.Name = "angleAC_label";
+            this.angleAC_label.Size = new System.Drawing.Size(15, 13);
+            this.angleAC_label.TabIndex = 18;
+            this.angleAC_label.Text = "--";
+            // 
+            // angleAB_label
+            // 
+            this.angleAB_label.AutoSize = true;
+            this.angleAB_label.Location = new System.Drawing.Point(599, 101);
+            this.angleAB_label.Name = "angleAB_label";
+            this.angleAB_label.Size = new System.Drawing.Size(15, 13);
+            this.angleAB_label.TabIndex = 17;
+            this.angleAB_label.Text = "--";
+            // 
+            // angleAC_button
+            // 
+            this.angleAC_button.Location = new System.Drawing.Point(462, 125);
+            this.angleAC_button.Name = "angleAC_button";
+            this.angleAC_button.Size = new System.Drawing.Size(75, 23);
+            this.angleAC_button.TabIndex = 16;
+            this.angleAC_button.Text = "Angle AC";
+            this.angleAC_button.UseVisualStyleBackColor = true;
+            this.angleAC_button.Click += new System.EventHandler(this.angleAC_button_Click);
+            // 
+            // angleAB_button
+            // 
+            this.angleAB_button.Location = new System.Drawing.Point(462, 96);
+            this.angleAB_button.Name = "angleAB_button";
+            this.angleAB_button.Size = new System.Drawing.Size(75, 23);
+            this.angleAB_button.TabIndex = 15;
+            this.angleAB_button.Text = "Angle AB";
+            this.angleAB_button.UseVisualStyleBackColor = true;
+            this.angleAB_button.Click += new System.EventHandler(this.angleAB_button_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(459, 101);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 13);
+            this.label1.TabIndex = 14;
             // 
             // MsgLabel1
             // 
@@ -520,6 +599,13 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label angleBC_label;
+        private System.Windows.Forms.Button angleBC_button;
+        private System.Windows.Forms.Label angleAC_label;
+        private System.Windows.Forms.Label angleAB_label;
+        private System.Windows.Forms.Button angleAC_button;
+        private System.Windows.Forms.Button angleAB_button;
+        private System.Windows.Forms.Label label1;
     }
 }
 

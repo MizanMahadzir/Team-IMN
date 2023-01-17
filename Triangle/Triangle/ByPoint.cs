@@ -116,6 +116,25 @@ namespace Triangle
 
             //return Math.Sqrt(S*(S-SideA)* (S - SideB)* (S - SideC));
         }
+
+        //for angleBC
+        public double AngleBC()
+        {
+            return Math.Cos((SideB() * SideB() + SideC() * SideC() - SideA() * SideA()) / (2 * SideB() * SideC()));
+        }
+
+        //for angleAC
+        public double AngleAC()
+        {
+            return Math.Cos((SideA() * SideA() + SideC() * SideC() - SideB() * SideB()) / (2 * SideA() * SideC()));
+        }
+
+        //for angleAB
+        public double AngleAB()
+        {
+            return Math.Cos((SideA() * SideA() + SideB() * SideB() - SideC() * SideC()) / (2 * SideA() * SideB()));
+        }
+
         public string Reality()
         {
             if ((SideA() > SideB()) && (SideA() > SideC()))
