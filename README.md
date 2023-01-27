@@ -1,6 +1,6 @@
 # Triangle
 
-The DLL version of the GUI based Fraction project at:
+1-The DLL version of the GUI based Fraction project at:
 
 https://github.com/MizanMahadzir/Triangle/tree/main/(2)TriangleDLL
 
@@ -30,8 +30,6 @@ namespace Triangle
         TriangleByPoint myByPoint = new TriangleByPoint();
 
 
-
-
         public Triangle()
         {
             InitializeComponent();
@@ -42,9 +40,6 @@ namespace Triangle
             double tempA1;
             double tempB1;
             double tempC1;
-
-
-
 
             try
             {
@@ -63,8 +58,6 @@ namespace Triangle
             myBySide.SideB = tempB1;
             myBySide.SideC = tempC1;
           
-
-
             Perimeter1_label.Text = myBySide.Perimeter().ToString(" 0.0000000000");
             RealityTriangle1Label.Text = "Triangle reality = " + myBySide.Reality();
 
@@ -75,9 +68,6 @@ namespace Triangle
             double tempA1;
             double tempB1;
             double tempC1;
-
-
-
 
             try
             {
@@ -111,9 +101,6 @@ namespace Triangle
             double tempY2;
             double tempY3;
 
-
-
-
             try
             {
                 tempX1 = Convert.ToInt32(X1textBox.Text);
@@ -137,9 +124,6 @@ namespace Triangle
             myByPoint.X3 = tempX3;
             myByPoint.Y3 = tempY3;
 
-
-
-
             Perimeter2_label.Text = myByPoint.Perimeter().ToString(" 0.0000000000");
             RealityTriangle2Label.Text = "Triangle reality = " + myByPoint.Reality();
         }
@@ -152,9 +136,6 @@ namespace Triangle
             double tempY1;
             double tempY2;
             double tempY3;
-
-
-
 
             try
             {
@@ -192,9 +173,6 @@ namespace Triangle
             double tempY2;
             double tempY3;
 
-
-
-
             try
             {
                 tempX1 = Convert.ToInt32(X1textBox.Text);
@@ -229,9 +207,6 @@ namespace Triangle
             double tempY1;
             double tempY2;
             double tempY3;
-
-
-
 
             try
             {
@@ -268,9 +243,6 @@ namespace Triangle
             double tempY2;
             double tempY3;
 
-
-
-
             try
             {
                 tempX1 = Convert.ToInt32(X1textBox.Text);
@@ -303,9 +275,6 @@ namespace Triangle
             double tempB1;
             double tempC1;
 
-
-
-
             try
             {
                 tempA1 = Convert.ToInt32(SideA1textBox.Text);
@@ -331,9 +300,6 @@ namespace Triangle
             double tempA1;
             double tempB1;
             double tempC1;
-
-
-
 
             try
             {
@@ -361,9 +327,6 @@ namespace Triangle
             double tempB1;
             double tempC1;
 
-
-
-
             try
             {
                 tempA1 = Convert.ToInt32(SideA1textBox.Text);
@@ -382,11 +345,6 @@ namespace Triangle
             myBySide.SideC = tempC1;
 
             angleBC_label_side.Text = myBySide.AngleBC().ToString(" 0.00");
-        }
-
-        private void SideA1_label_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
@@ -408,6 +366,106 @@ Point Tab
 3. To calculate parameter, user need to click the parameter box given.
 4. To calculate area, user need to click the area box given.
 5. To calculate angle, user need to click the angle box given.
+
+2-The GUI based Fraction project at:
+
+https://github.com/MizanMahadzir/Triangle/tree/main/(1)Triangle
+
+-Constructors
+=For Side
+        public TriangleBySideDLL()
+        {
+            _sideA = 0;
+            _sideB = 0;
+            _sideC = 0;
+        }
+=For Point
+        public TriangleByPointDLL()
+        {
+            _x1 = 0;
+            _y1 = 0;
+            _x2 = 0;
+            _y2 = 0;
+            _x3 = 0;
+            _y3 = 0;
+        }
+
+-Methods
+=For Side
+To find perimeter
+        public double Perimeter()
+        {
+            return _sideA + _sideB + _sideC;
+        }
+To find half perimeter (S)
+        public double S()
+        {
+            return Perimeter() / 2;
+        }
+To find area
+        public double Area()
+        {
+            return Math.Sqrt(S() * (S() - _sideA) * (S() - _sideB) * (S() - _sideC));
+        }
+To find angle
+        public double AngleBC()
+        {
+            return ((Math.Acos(((_sideB * _sideB) + (_sideC * _sideC) - (_sideA * _sideA)) / (2 * _sideB * _sideC))) * 180) / Math.PI;
+        }
+        public double AngleAC()
+        {
+            return ((Math.Acos(((_sideA * _sideA) + (_sideC * _sideC) - (_sideB * _sideB)) / (2 * _sideA * _sideC))) * 180) / Math.PI;
+        }
+        public double AngleAB()
+        {
+            return ((Math.Acos(((_sideA * _sideA) + (_sideB * _sideB) - (_sideC * _sideC)) / (2 * _sideA * _sideB))) * 180) / Math.PI;
+        }
+        
+=For Point
+To find distance
+       public double SideA()
+        {
+            return (Math.Sqrt(((_x2 - _x1) * (_x2 - _x1)) + ((_y2 - _y1) * (_y2 - _y1))));
+        }
+        public double SideB()
+        {
+            return (Math.Sqrt(((_x1 - _x3) * (_x1 - _x3)) + ((_y1 - _y3) * (_y1 - _y3))));
+        }
+        public double SideC()
+        {
+            return (Math.Sqrt(((_x3 - _x2) * (_x3 - _x2)) + ((_y3 - _y2) * (_y3 - _y2))));
+        }
+To find perimeter
+        public double Perimeter()
+        {
+            return (Math.Sqrt(((_x2 - _x1) * (_x2 - _x1)) + ((_y2 - _y1) * (_y2 - _y1))))
+                + (Math.Sqrt(((_x1 - _x3) * (_x1 - _x3)) + ((_y1 - _y3) * (_y1 - _y3))))
+                + (Math.Sqrt(((_x3 - _x2) * (_x3 - _x2)) + ((_y3 - _y2) * (_y3 - _y2))));
+        }
+To find half perimeter (S)
+        public double S()
+        {
+            return Perimeter() / 2;
+        }
+To find area
+        public double Area()
+        {
+            return Math.Sqrt(S() * (S() - SideA()) * (S() - SideB()) * (S() - SideC()));
+        }
+To find angle
+        public double AngleBC()
+        {
+            return ((Math.Acos((SideB() * SideB() + SideC() * SideC() - SideA() * SideA()) / (2 * SideB() * SideC()))) * 180) / Math.PI;
+        }
+        public double AngleAC()
+        {
+            return ((Math.Acos((SideA() * SideA() + SideC() * SideC() - SideB() * SideB()) / (2 * SideA() * SideC()))) * 180) / Math.PI;
+        }
+        public double AngleAB()
+        {
+            return ((Math.Acos((SideA() * SideA() + SideB() * SideB() - SideC() * SideC()) / (2 * SideA() * SideB()))) * 180) / Math.PI;
+        }
+
 
 Group Members
 1. AHMAD WAJDI BIN HAMID 2190770 (Unit Test)
