@@ -371,7 +371,7 @@ Point Tab
 
 https://github.com/MizanMahadzir/Triangle/tree/main/(1)Triangle
 
-<Constructors>
+*Constructors*
 
 _For Side_
 
@@ -394,7 +394,7 @@ _For Point_
             _y3 = 0;
         }
 
-<Methods>
+*Methods*
 
 _For Side_
 
