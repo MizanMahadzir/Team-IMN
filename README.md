@@ -393,7 +393,7 @@ namespace Triangle
 
 so the task that have been assigned to our group is completed.
 
-#GOLD STANDARD
+# GOLD STANDARD
 
 The goal standard of this project is to determine various parameters of a triangle based on side and point given by the user.
 
