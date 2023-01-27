@@ -1,6 +1,6 @@
-# TRIANGLE
+# **TRIANGLE**
 
-### 1-The DLL version of the GUI based Fraction project at:
+## 1-The DLL version of the GUI based Fraction project at:
 
 https://github.com/MizanMahadzir/Triangle/tree/main/(2)TriangleDLL
 
@@ -351,7 +351,7 @@ namespace Triangle
 
 so the task that have been assigned to our group is completed.
 
-## GOLD STANDARD
+### GOLD STANDARD
 
 The goal standard of this project is to determine various parameters of a triangle based on side and point given by the user.
 
