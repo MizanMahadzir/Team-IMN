@@ -397,10 +397,10 @@ so the task that have been assigned to our group is completed.
 
 The goal standard of this project is to determine various parameters of a triangle based on side and point given by the user.
 
-Side Tab:
-![image](https://user-images.githubusercontent.com/116859764/215010879-504a07b3-0fdd-46c6-b3b4-03d45eaae433.png)
+Side Tab
+![image](https://user-images.githubusercontent.com/116859764/215125342-076d879c-6179-4478-9eba-25c47ac8d3c2.png)
 
-Side Tab:
+Point Tab
 ![image](https://user-images.githubusercontent.com/116859764/215125069-62c39532-e0bd-424f-8624-e2c8625509ab.png)
 
 1. User will decide to use either to use tab by side or by point.
