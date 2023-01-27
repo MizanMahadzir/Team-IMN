@@ -371,9 +371,9 @@ Point Tab
 
 https://github.com/MizanMahadzir/Triangle/tree/main/(1)Triangle
 
--Constructors
+<Constructors>
 
-=For Side
+_For Side_
 
         public TriangleBySideDLL()
         {
@@ -382,7 +382,7 @@ https://github.com/MizanMahadzir/Triangle/tree/main/(1)Triangle
             _sideC = 0;
         }
         
-=For Point
+_For Point_
 
         public TriangleByPointDLL()
         {
@@ -394,9 +394,9 @@ https://github.com/MizanMahadzir/Triangle/tree/main/(1)Triangle
             _y3 = 0;
         }
 
--Methods
+<Methods>
 
-=For Side
+_For Side_
 
 To find perimeter
 
@@ -435,7 +435,7 @@ To find angle
             return ((Math.Acos(((_sideA * _sideA) + (_sideB * _sideB) - (_sideC * _sideC)) / (2 * _sideA * _sideB))) * 180) / Math.PI;
         }
         
-=For Point
+_For Point_
 
 To find distance
 
