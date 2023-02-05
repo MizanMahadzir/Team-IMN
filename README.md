@@ -1,16 +1,18 @@
-# **TRIANGLE**
+#Triangle
 
 Group Members
-1. AHMAD WAJDI BIN HAMID 2190770 (Unit Test)
-2. MIZAN BIN MAHADZIR 2190772 (Library)
-3. NUR IMAN BIN MOHD ANUAR 2190163 (GUI)
+1. Ahmad Wajdi Bin Hamid 2190770 (Library)
+2. Mizan Bin Mahadzir 2190772 (GUI)
+3. Nur Iman Bin Mohd Anuar 2190163 (Unit Test)
 
-# TRIANGLE GUI:
+# Triangle GUI:
 
-Side Tab\n
+Side Tab
+
 ![image](https://user-images.githubusercontent.com/116859764/215125342-076d879c-6179-4478-9eba-25c47ac8d3c2.png)
 
-Point Tab\n
+Point Tab
+
 ![image](https://user-images.githubusercontent.com/116859764/215125069-62c39532-e0bd-424f-8624-e2c8625509ab.png)
 
 1. User will decide to use either to use tab by side or by point.
@@ -19,9 +21,9 @@ Point Tab\n
 4. To calculate area, user need to click the area box given.
 5. To calculate angle, user need to click the angle box given.
 
-# TRIANGLE LIBRARY
+# Triangle Library
 
-# GOLD STANDARD
+# Gold Standard
 
 Goal standard of this project is to determine various parameters of a triangle based on side and point given by the user.
 
