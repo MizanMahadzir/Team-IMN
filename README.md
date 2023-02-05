@@ -7,6 +7,8 @@ https://github.com/MizanMahadzir/Triangle/tree/main/(2)TriangleDLL
 
 the GUI exe version for the unified numeral
 
+### GOLD STANDARD
+
 Gold standard link for triangle calculator using side as parameter: 
 
 https://www.triangle-calculator.com/?q=a%3D5+b%3D3+c%3D6&submit=Solve
