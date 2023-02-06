@@ -23,6 +23,10 @@
 
 ## Triangle Library
 
+Link for triangle library:
+
+
+
 ## Gold Standard
 
 Goal standard of this project is to determine various parameters of a triangle based on side and point given by the user.
