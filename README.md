@@ -20,6 +20,7 @@
 3. To calculate parameter, user need to click the parameter box given.
 4. To calculate area, user need to click the area box given.
 5. To calculate angle, user need to click the angle box given.
+6. Unit test was successful.
 
 ## Triangle Library
 
