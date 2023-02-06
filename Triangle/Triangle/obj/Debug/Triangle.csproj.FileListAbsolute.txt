@@ -1,0 +1,65 @@
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.exe.config
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.exe
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.Triangle.resources
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.exe
+D:\User's Files\Desktop\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.Triangle.resources
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\PSCAD\Desktop\CodingTriangle\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.Triangle.resources
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\bin\Debug\Trianglelibrary.dll
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\bin\Debug\Trianglelibrary.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\CodingTriangle\CodingTriangle\Triangle\Triangle\obj\Debug\Triangle.csproj.CopyComplete
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\bin\Debug\Triangle.xml
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\bin\Debug\Trianglelibrary.pdb
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\obj\Debug\Triangle.Triangle.resources
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\obj\Debug\Triangle.csproj.CopyComplete
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\PSCAD\Desktop\nero software\triangle with library\Triangle\Triangle\bin\Debug\Trianglelibrary.dll
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\bin\Debug\Triangle.xml
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\bin\Debug\Trianglelibrary.dll
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\bin\Debug\Trianglelibrary.pdb
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.Triangle.resources
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.csproj.CopyComplete
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\Admin\Documents\SEM7\CODING\SAIMEN1\Library\Triangle-main\Triangle\Triangle\obj\Debug\Triangle.pdb
